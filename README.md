@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Full Stack Developer | <br>🔥MERN • Next.js • GenAI Enthusiast |<br> ⚡300+ DSA Problems
+🚀 Full Stack Developer | <br>🔥MERN • Next.js • GenAI Enthusiast |<br> ⚡350+ DSA Problems
 
 
 ## 🌐 Socials:
